@@ -1,13 +1,12 @@
-Test Automation Assignment
-Validating the HR Management application
-Application : https://demo.actitime.com/
-Requirement : The HR Management application allows the HR to login with valid
-username and valid password. The HR once logged into the system successfully can
-be able to look into Employee profiles and review leaves and attendance reports
-and Approval/rejection of the timesheets.
-Tech Coverage : Java, TestNG, Selenium,Maven,Excel/My SQL, Page Object Model Design
-, Extent Reports, log4j , GitHub
-Activities to performed:
+# Test Automation Assignment
+
+## Validating the HR Management application
+
+### Application : https://demo.actitime.com
+
+#### Requirement : The HR Management application allows the HR to login with valid username and valid password. The HR once logged into the system successfully can be able to look into Employee profiles and review leaves and attendance reports and Approval/rejection of the timesheets.
+#### Tech Coverage : Java, TestNG, Selenium,Maven,Excel/My SQL, Page Object Model Design, Extent Reports, log4j , GitHub
+#### Activities to performed:
 1. Draw a Mind Map or draft test cases for given requirement
 2. Build Hybrid Test Framework -- Page Object Model + Data Driven framework +
    TestNG & Maven Project Structure
