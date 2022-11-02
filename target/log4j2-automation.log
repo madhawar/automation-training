@@ -1,0 +1,187 @@
+[INFO ] 2022-11-02 11:03:05.819 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-02 11:03:06.857 [main] WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+[INFO ] 2022-11-02 11:03:06.874 [main] WebDriverManager - Exporting webdriver.gecko.driver as /home/madhawa/.cache/selenium/geckodriver/linux64/0.32.0/geckodriver
+[ERROR] 2022-11-02 11:04:00.901 [main] Log - Skipping action as element not present within expected time in seconds: 30
+[INFO ] 2022-11-02 11:05:03.169 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-02 11:05:03.506 [main] WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+[INFO ] 2022-11-02 11:05:03.520 [main] WebDriverManager - Exporting webdriver.gecko.driver as /home/madhawa/.cache/selenium/geckodriver/linux64/0.32.0/geckodriver
+[INFO ] 2022-11-02 11:05:24.618 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-02 11:05:24.944 [main] WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+[INFO ] 2022-11-02 11:05:24.960 [main] WebDriverManager - Exporting webdriver.gecko.driver as /home/madhawa/.cache/selenium/geckodriver/linux64/0.32.0/geckodriver
+[INFO ] 2022-11-02 11:14:28.794 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-02 11:14:29.128 [main] WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+[INFO ] 2022-11-02 11:14:29.147 [main] WebDriverManager - Exporting webdriver.gecko.driver as /home/madhawa/.cache/selenium/geckodriver/linux64/0.32.0/geckodriver
+[INFO ] 2022-11-02 11:22:59.676 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-02 11:22:59.991 [main] WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+[INFO ] 2022-11-02 11:23:00.005 [main] WebDriverManager - Exporting webdriver.gecko.driver as /home/madhawa/.cache/selenium/geckodriver/linux64/0.32.0/geckodriver
+[INFO ] 2022-11-02 11:23:09.189 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 11:23:09.211 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 11:23:09.433 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 11:30:03.949 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[WARN ] 2022-11-02 11:30:04.440 [main] Log - [DATA PROVIDER] TEST DATA: 2
+[INFO ] 2022-11-02 11:30:04.731 [main] WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+[INFO ] 2022-11-02 11:30:04.751 [main] WebDriverManager - Exporting webdriver.gecko.driver as /home/madhawa/.cache/selenium/geckodriver/linux64/0.32.0/geckodriver
+[INFO ] 2022-11-02 11:30:13.600 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 11:30:13.624 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 11:30:13.847 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 11:30:14.091 [main] WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+[INFO ] 2022-11-02 11:30:14.095 [main] WebDriverManager - Exporting webdriver.gecko.driver as /home/madhawa/.cache/selenium/geckodriver/linux64/0.32.0/geckodriver
+[INFO ] 2022-11-02 11:31:45.563 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[WARN ] 2022-11-02 11:31:46.032 [main] Log - [DATA PROVIDER] TEST DATA: 2
+[INFO ] 2022-11-02 11:31:46.299 [main] WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+[INFO ] 2022-11-02 11:31:46.325 [main] WebDriverManager - Exporting webdriver.gecko.driver as /home/madhawa/.cache/selenium/geckodriver/linux64/0.32.0/geckodriver
+[INFO ] 2022-11-02 11:31:55.647 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 11:31:55.667 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 11:31:55.886 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 11:31:56.116 [main] WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+[INFO ] 2022-11-02 11:31:56.120 [main] WebDriverManager - Exporting webdriver.gecko.driver as /home/madhawa/.cache/selenium/geckodriver/linux64/0.32.0/geckodriver
+[INFO ] 2022-11-02 11:34:12.892 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[WARN ] 2022-11-02 11:34:13.430 [main] Log - [DATA PROVIDER] TEST DATA: 2
+[INFO ] 2022-11-02 11:34:15.902 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[INFO ] 2022-11-02 11:34:48.185 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[WARN ] 2022-11-02 11:34:48.682 [main] Log - [DATA PROVIDER] TEST DATA: 2
+[INFO ] 2022-11-02 11:34:51.060 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[INFO ] 2022-11-02 11:34:56.836 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 11:34:56.905 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 11:34:56.961 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 11:34:58.868 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[INFO ] 2022-11-02 11:35:05.883 [main] Log - USER HAS ENTERED USERNAME: trainee
+[INFO ] 2022-11-02 11:35:05.948 [main] Log - USER HAS ENTERED PASSWORD: trainee
+[INFO ] 2022-11-02 11:35:06.003 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 11:37:46.463 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[WARN ] 2022-11-02 11:37:46.962 [main] Log - [DATA PROVIDER] TEST DATA: 3
+[INFO ] 2022-11-02 11:37:49.333 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[INFO ] 2022-11-02 11:37:55.818 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 11:37:55.881 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 11:37:55.933 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 11:38:01.203 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[INFO ] 2022-11-02 11:38:07.127 [main] Log - USER HAS ENTERED USERNAME: trainee
+[INFO ] 2022-11-02 11:38:07.187 [main] Log - USER HAS ENTERED PASSWORD: trainee
+[INFO ] 2022-11-02 11:38:07.239 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 11:38:22.249 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[INFO ] 2022-11-02 11:38:28.845 [main] Log - USER HAS ENTERED USERNAME: nasmin
+[INFO ] 2022-11-02 11:38:28.903 [main] Log - USER HAS ENTERED PASSWORD: nasmin
+[INFO ] 2022-11-02 11:38:28.953 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 11:41:36.332 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[WARN ] 2022-11-02 11:41:36.726 [main] Log - [DATA PROVIDER] TEST DATA: 3
+[INFO ] 2022-11-02 11:41:39.271 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[INFO ] 2022-11-02 11:41:46.980 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 11:41:47.040 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 11:41:47.091 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 11:58:28.126 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-02 11:58:30.596 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[WARN ] 2022-11-02 11:58:30.967 [main] Log - [DATA PROVIDER] TEST DATA: 3
+[INFO ] 2022-11-02 11:58:36.760 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 11:58:36.822 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 11:58:36.876 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 11:58:40.260 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-02 11:58:46.030 [main] Log - USER HAS ENTERED USERNAME: trainee
+[INFO ] 2022-11-02 11:58:46.090 [main] Log - USER HAS ENTERED PASSWORD: trainee
+[INFO ] 2022-11-02 11:58:46.142 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 11:58:59.263 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-02 11:59:06.669 [main] Log - USER HAS ENTERED USERNAME: nasmin
+[INFO ] 2022-11-02 11:59:06.732 [main] Log - USER HAS ENTERED PASSWORD: nasmin
+[INFO ] 2022-11-02 11:59:06.783 [main] Log - USER IS STAYING LOGGED IN
+[WARN ] 2022-11-02 11:59:17.269 [main] Log - [SCREENSHOT] SAVED: ti-2022-11-02-11-59-17.png
+[INFO ] 2022-11-02 12:04:07.738 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-02 12:04:10.380 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[WARN ] 2022-11-02 12:04:10.779 [main] Log - [DATA PROVIDER] TEST DATA: 3
+[INFO ] 2022-11-02 12:04:17.492 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 12:04:17.553 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 12:04:17.605 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:04:21.681 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-02 12:04:28.044 [main] Log - USER HAS ENTERED USERNAME: trainee
+[INFO ] 2022-11-02 12:04:28.109 [main] Log - USER HAS ENTERED PASSWORD: trainee
+[INFO ] 2022-11-02 12:04:28.163 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:04:42.428 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-02 12:04:49.055 [main] Log - USER HAS ENTERED USERNAME: nasmin
+[INFO ] 2022-11-02 12:04:49.115 [main] Log - USER HAS ENTERED PASSWORD: nasmin
+[INFO ] 2022-11-02 12:04:49.169 [main] Log - USER IS STAYING LOGGED IN
+[WARN ] 2022-11-02 12:05:08.744 [main] Log - [SCREENSHOT] SAVED: ti-2022-11-02-12-04-59.png
+[INFO ] 2022-11-02 12:12:12.807 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-02 12:12:15.470 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[WARN ] 2022-11-02 12:12:15.886 [main] Log - [DATA PROVIDER] TEST DATA: 3
+[INFO ] 2022-11-02 12:12:23.255 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 12:12:23.333 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 12:12:23.405 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:12:27.353 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-02 12:12:33.599 [main] Log - USER HAS ENTERED USERNAME: trainee
+[INFO ] 2022-11-02 12:12:33.666 [main] Log - USER HAS ENTERED PASSWORD: trainee
+[INFO ] 2022-11-02 12:12:33.722 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:12:47.935 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-02 12:12:54.971 [main] Log - USER HAS ENTERED USERNAME: nasmin
+[INFO ] 2022-11-02 12:12:55.032 [main] Log - USER HAS ENTERED PASSWORD: nasmin
+[INFO ] 2022-11-02 12:12:55.083 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:14:30.882 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-02 12:14:33.571 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[WARN ] 2022-11-02 12:14:33.918 [main] Log - [DATA PROVIDER] TEST DATA: 3
+[INFO ] 2022-11-02 12:14:40.101 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 12:14:40.163 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 12:14:40.214 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:14:43.688 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-02 12:14:49.382 [main] Log - USER HAS ENTERED USERNAME: trainee
+[INFO ] 2022-11-02 12:14:49.468 [main] Log - USER HAS ENTERED PASSWORD: trainee
+[INFO ] 2022-11-02 12:14:49.527 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:15:03.898 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-02 12:15:13.526 [main] Log - USER HAS ENTERED USERNAME: nasmin
+[INFO ] 2022-11-02 12:15:13.588 [main] Log - USER HAS ENTERED PASSWORD: nasmin
+[INFO ] 2022-11-02 12:15:13.639 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:16:42.653 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-02 12:16:45.015 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[WARN ] 2022-11-02 12:16:45.423 [main] Log - [DATA PROVIDER] TEST DATA: 3
+[INFO ] 2022-11-02 12:16:52.909 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 12:16:52.975 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 12:16:53.030 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:16:57.043 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-02 12:17:04.807 [main] Log - USER HAS ENTERED USERNAME: trainee
+[INFO ] 2022-11-02 12:17:04.870 [main] Log - USER HAS ENTERED PASSWORD: trainee
+[INFO ] 2022-11-02 12:17:04.923 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:17:47.261 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-02 12:17:49.734 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[WARN ] 2022-11-02 12:17:50.093 [main] Log - [DATA PROVIDER] TEST DATA: 3
+[INFO ] 2022-11-02 12:17:56.404 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 12:17:56.469 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 12:17:56.520 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:18:00.905 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-02 12:18:08.370 [main] Log - USER HAS ENTERED USERNAME: trainee
+[INFO ] 2022-11-02 12:18:08.431 [main] Log - USER HAS ENTERED PASSWORD: trainee
+[INFO ] 2022-11-02 12:18:08.483 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:18:22.845 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-02 12:18:31.081 [main] Log - USER HAS ENTERED USERNAME: nasmin
+[INFO ] 2022-11-02 12:18:31.141 [main] Log - USER HAS ENTERED PASSWORD: nasmin
+[INFO ] 2022-11-02 12:18:31.193 [main] Log - USER IS STAYING LOGGED IN
+[WARN ] 2022-11-02 12:18:38.185 [main] Log - [SCREENSHOT] SAVED: ti-2022-11-02-12-18-36.png

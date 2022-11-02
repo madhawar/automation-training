@@ -1,0 +1,7 @@
+[INFO ] 2022-10-17 13:52:29.932 [main] WebDriverManager - Using geckodriver 0.32.0 (resolved driver for Firefox 105)
+[INFO ] 2022-10-17 13:52:29.951 [main] WebDriverManager - Exporting webdriver.gecko.driver as /home/madhawa/.cache/selenium/geckodriver/linux64/0.32.0/geckodriver
+[INFO ] 2022-10-17 13:52:45.597 [main] Log - Clicked element (JavaScript): adroll_allow_all
+[INFO ] 2022-10-17 13:52:45.973 [main] Log - Waited for element presence: //*[@id='rates']/child::div/child::div/child::p
+[INFO ] 2022-10-17 13:52:45.993 [main] Log - Waited for element presence: //*[@id='rates']/child::ul/following-sibling::div/child::div/child::table/child::tbody/child::tr[16]/child::td[1]
+[INFO ] 2022-10-17 13:52:46.005 [main] Log - Waited for element presence: //*[@id='rates']/child::ul/following-sibling::div/child::div/child::table/child::tbody/child::tr[16]/child::td[2]
+[INFO ] 2022-10-17 13:52:46.011 [main] Log - Daily Exchange rates as at 10/17/2022 8:47:50 AM: 405.3176 U.K. Pound
