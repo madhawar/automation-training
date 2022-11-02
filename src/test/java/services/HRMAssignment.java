@@ -7,6 +7,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -35,12 +36,6 @@ public class HRMAssignment {
     protected boolean headless = false;
     protected boolean debug = false;
 
-    @DataProvider()
-    public Object[][] singleThread() {
-        SpreadsheetReader spreadsheetReader = new SpreadsheetReader();
-        return spreadsheetReader.getData("src/test/resources/userlogins.xlsx", "new_account");
-    }
-
     @BeforeSuite()
     public void delete_test_reports_and_screenshots_of_previous_runs() throws Exception {
         File screenshots = new File("test-screenshots");
@@ -54,17 +49,21 @@ public class HRMAssignment {
         }
 
         WebDriverManager.chromedriver().setup();
-        if(headless) {
+//        WebDriverManager.firefoxdriver().setup();
+        if (headless) {
             chromeOptions.addArguments("--headless", "--incognito", "--window-size=1920,1080", "--disable-gpu", "--disable-extensions", "--disable-site-isolation-trials", "--no-sandbox","--disable-dev-shm-usage", "--ignore-certificate-errors");
+            firefoxOptions.addArguments("--headless", "--private", "--width=1920", "--height=1080");
         }
         else {
             chromeOptions.addArguments("--incognito", "--window-size=1920,1080", "--disable-gpu", "--disable-extensions", "--disable-site-isolation-trials", "--no-sandbox","--disable-dev-shm-usage", "--ignore-certificate-errors");
+            firefoxOptions.addArguments("--private", "--width=1920", "--height=1080");
         }
     }
 
     @BeforeMethod
     public void initiate_browser_instance() {
         driver = new ChromeDriver(chromeOptions);
+//        driver = new FirefoxDriver(chromeOptions);
         wait = new WebDriverWait(driver, Duration.ofSeconds(WEBDRIVER_WAIT));
         js = ((JavascriptExecutor) driver);
     }
@@ -74,10 +73,10 @@ public class HRMAssignment {
         if (ITestResult.FAILURE == result.getStatus()) {
             LocalDateTime now = LocalDateTime.now();
             TakesScreenshot ts = (TakesScreenshot) driver;
-            String screenshot = "ti-" + ss.format(now);
+            String screenshot = "ss-" + ss.format(now);
             File source = ts.getScreenshotAs(OutputType.FILE);
             FileHandler.copy(source, new File("test-screenshots/" + screenshot + ".png"));
-            Log.warn("[SCREENSHOT] SAVED: " + screenshot + ".png");
+            Log.error("[SCREENSHOT] SAVED: " + screenshot + ".png");
         }
 
         if (driver != null && !debug) {

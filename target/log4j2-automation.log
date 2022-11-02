@@ -185,3 +185,37 @@
 [INFO ] 2022-11-02 12:18:31.141 [main] Log - USER HAS ENTERED PASSWORD: nasmin
 [INFO ] 2022-11-02 12:18:31.193 [main] Log - USER IS STAYING LOGGED IN
 [WARN ] 2022-11-02 12:18:38.185 [main] Log - [SCREENSHOT] SAVED: ti-2022-11-02-12-18-36.png
+[INFO ] 2022-11-02 12:50:56.720 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-02 12:50:59.231 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[WARN ] 2022-11-02 12:50:59.712 [main] Log - [DATA PROVIDER] TEST DATA: 3
+[INFO ] 2022-11-02 12:51:05.534 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 12:51:05.596 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 12:51:05.648 [main] Log - USER IS STAYING LOGGED IN
+[WARN ] 2022-11-02 12:51:05.833 [main] Log - [SCREENSHOT] SAVED: ss-2022-11-02-12-51-05.png
+[INFO ] 2022-11-02 12:51:11.916 [main] Log - USER HAS ENTERED USERNAME: trainee
+[INFO ] 2022-11-02 12:51:11.977 [main] Log - USER HAS ENTERED PASSWORD: trainee
+[INFO ] 2022-11-02 12:51:12.027 [main] Log - USER IS STAYING LOGGED IN
+[WARN ] 2022-11-02 12:51:12.232 [main] Log - [SCREENSHOT] SAVED: ss-2022-11-02-12-51-12.png
+[INFO ] 2022-11-02 12:51:18.720 [main] Log - USER HAS ENTERED USERNAME: nasmin
+[INFO ] 2022-11-02 12:51:18.781 [main] Log - USER HAS ENTERED PASSWORD: nasmin
+[INFO ] 2022-11-02 12:51:18.834 [main] Log - USER IS STAYING LOGGED IN
+[WARN ] 2022-11-02 12:51:40.295 [main] Log - [SCREENSHOT] SAVED: ss-2022-11-02-12-51-18.png
+[INFO ] 2022-11-02 12:51:53.919 [main] Utils - [TestNG] Running:
+  /home/madhawa/.cache/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[INFO ] 2022-11-02 12:51:56.437 [main] WebDriverManager - Exporting webdriver.chrome.driver as /home/madhawa/.cache/selenium/chromedriver/linux64/107.0.5304.62/chromedriver
+[WARN ] 2022-11-02 12:51:56.809 [main] Log - [DATA PROVIDER] TEST DATA: 3
+[INFO ] 2022-11-02 12:52:04.207 [main] Log - USER HAS ENTERED USERNAME: admin
+[INFO ] 2022-11-02 12:52:04.272 [main] Log - USER HAS ENTERED PASSWORD: manager
+[INFO ] 2022-11-02 12:52:04.332 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:52:08.294 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-02 12:52:15.537 [main] Log - USER HAS ENTERED USERNAME: trainee
+[INFO ] 2022-11-02 12:52:15.601 [main] Log - USER HAS ENTERED PASSWORD: trainee
+[INFO ] 2022-11-02 12:52:15.654 [main] Log - USER IS STAYING LOGGED IN
+[INFO ] 2022-11-02 12:52:29.482 [main] Log - LOGOUT LINK VISIBLE
+[INFO ] 2022-11-02 12:52:36.809 [main] Log - USER HAS ENTERED USERNAME: nasmin
+[INFO ] 2022-11-02 12:52:36.870 [main] Log - USER HAS ENTERED PASSWORD: nasmin
+[INFO ] 2022-11-02 12:52:36.923 [main] Log - USER IS STAYING LOGGED IN
+[WARN ] 2022-11-02 12:53:20.802 [main] Log - [SCREENSHOT] SAVED: ss-2022-11-02-12-52-42.png

@@ -13,7 +13,7 @@ public class ActiTime extends HRMAssignment {
     @DataProvider()
     public Object[][] singleThread() {
         SpreadsheetReader spreadsheetReader = new SpreadsheetReader();
-        return spreadsheetReader.getData("src/test/resources/userlogins.xlsx", "new_account");
+        return spreadsheetReader.getData(Prop.elements().getProperty("EXCEL_PATH"), "new_account");
     }
 
     @Test(dataProvider = "singleThread")
